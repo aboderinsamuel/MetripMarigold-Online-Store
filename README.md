@@ -91,7 +91,3 @@ To run this project locally, follow these steps:
 - **Shop**: Browse products in the shop and use filters to find what you need.
 - **Authentication**: Log in or sign up as a user to access the cart.
 - **Admin Actions**: If you are an admin, you can upload new products via the admin dashboard.
-
-## 📸 Screenshots
-
-_Add screenshots of the landing page, shop page, login page, and admin page here to make it visually appealing._
