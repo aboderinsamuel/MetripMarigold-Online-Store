@@ -81,7 +81,7 @@ To run this project locally, follow these steps:
    ```bash
    cd backend
    npm install
-   node server.js
+   node index.js
    ```
 
 4. Ensure MongoDB is running locally or connected to your cloud database.
